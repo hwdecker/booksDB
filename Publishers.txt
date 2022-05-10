@@ -1,0 +1,12 @@
+1, 'Addison-Wesley', '123 East Rutherford, New Jersey, NJ 11426, USA', 2
+2, 'McGraw-Hill', '725 Main St, Baltimore, MD 21333, USA', 4
+3, 'Wiley', '411 42nd St, New York, NY 10141, USA', 3
+4, 'Elsevier', '83rd Phillips Straat, Rotterdam, Netherlands', 1
+5, 'Longman', '63 Piccardly Square, London, England 4GK231', 7
+6, 'Course Technology', '38 Harvard Road, Boston, MA 05211, USA', 6
+7, 'Jones & Bartlett', '500 Waterfron Road, Chicago, IL 60149, USA', 6
+8, 'Penguin', '80 Plantation House, Blantyre, Malawi', 5
+9, 'City Publications', '111 Mohammad Ali Blvd, Louisville, KY 40252, USA', 10
+10, 'Simon & Schuster', '300 Hollywood Blvd, Los Angeles, CA 90152, USA', 8
+11, 'CRC', '46 Queen Elizabeth Av, Toronto, Canada T32VK9', 1
+12, 'Pearson', '330 Hudson Street, New York, NY 10013', 1

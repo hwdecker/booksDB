@@ -1,0 +1,17 @@
+97899590597, ‘The Water Dancer’, ‘Ta-Nehisi Coates’, 70, 28.00, 20.00, 2019, 5
+32132132132, 'Peace Corps', 'Jack and Angene Wilson', 50, 15.00, 12.00, 2011, 9
+97942335221, 'Fundamentals of Database Systems', 'Ramez Elmasri', 100, 125.00, 100.00, 2011, 1
+64814414414, 'Legal Issues of Computer Security', 'Joanna Gramma', 20, 60.00, 55.00, 2012, 7
+12345678901, 'Discrete Mathematics', 'Kenneth Rosen', 200, 212.69, 175.00, 2019, 2
+44444444444, 'Visual Basic: Step by Step', 'Malik', 100, 38.75, 35.00, 2007, 6
+98013200025, 'Cryptography', 'Stinson', 10, 105.00, 75.00, 2008, 11
+27224421166, 'C++ Programming Language', 'Stroustrup', 300, 62.50, 50.00, 2013, 1
+33421111222, 'Steve Jobs', 'Walter Isaacson', 1000, 47.45, 40.25, 2011, 10
+43433333444, 'Software Engineering', 'Frank Tsui', 70, 53.53, 43.43, 2009, 7
+58729955411, 'Computer Security', 'Frank Conklin', 30, 82.75, 80, 2010, 3
+62588811432, 'Things Fall Apart', 'Chinua Achebe', 5, 12.00, 10.00, 1968, 5
+77744555663, 'No Easy Task', 'Aubrey Kayira', 2, 7.00, 5.00, 1970, 8
+97812345678, 'Computer Networks', 'Peterson', 8, 112.00, 100.00, 2004, 1
+87062662662, 'Differential Equations', 'Perko', 12, 95.00, 90.00, 2000, 4
+70626626621, 'Computers in Action 9th Ed', 'Parsley', 500, 130.00, 90.00, 2013, 2
+97804444321, ‘Starting out with Python 4th Ed’, ‘Gaddis’, 150, 120.00, 96.00, 2020, 12
